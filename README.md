@@ -1,4 +1,4 @@
-# Data Analytics Portfolio
+# Data Analytics Portfolio  
 ### Aspiring Data Analyst | Python • SQL • Power BI • Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
@@ -11,7 +11,7 @@ Each project focuses on solving real-world business problems using data-driven i
 
 ---
 
-##  Projects Portfolio
+###  Projects Portfolio
 
 ### 1. Customer Behavior Analysis
 📂 [View Code](./Customer_Behavior_Analysis_using_Python.ipynb)
@@ -54,10 +54,10 @@ Analyzed retail sales dataset using SQL to extract key business insights includi
 ![Top Customers](sql_top_customers.png)
 ![Category Analysis](sql_category_analysis.png)
 
-### 4. Executive Sales Dashboard (Power BI)
+### 4. Executive Risk & Profit Analysis Dashboard (Power BI)
 
 ### Overview  
-Built an interactive Power BI dashboard to analyze sales performance across regions, categories, and time.
+Built an interactive Power BI dashboard to analyze profit performance and risk segmentation across regions, categories, and time.
 Designed for executive-level decision-making with clear KPIs, trend analysis, and category performance insights.
 
 ### Tools Used  
@@ -65,43 +65,50 @@ Designed for executive-level decision-making with clear KPIs, trend analysis, an
 - Excel (Superstore dataset)
 
 ### Key Features  
-- KPI cards for Total Sales and Total Profit  
+- KPI cards for Total Sales, Total Profit, Profit Margin & Growth %
 - Sales trend over time  
-- Regional performance analysis  
+- Regional performance analysis
 - Category-wise breakdown  
 - Interactive filters (Region, Category, Date)
+- Risk segmentation using Profit Margin (High, Medium, Low)
 
 ### Key Insights  
-- Technology is the top-performing category  
-- West and East regions generate highest revenue  
-- Sales show consistent growth over time  
-- High-value segments drive major revenue  
+-  ⁠Low-risk segments contribute the highest profit  
+-  ⁠High-risk segments generate revenue but with lower margins  
+-  ⁠Technology is the most profitable category  
+-  ⁠West and East regions outperform other regions 
 
 ### Business Impact
-- Helps management identify top-performing regions and categories  
-- Supports data-driven decision-making  
-- Enables quick KPI monitoring  
-- Improves strategic planning using trends
+- ⁠Identifies profitable vs risky segments for better decision-making
+- ⁠Enables management to optimize strategy based on risk levels  
+- Supports performance monitoring through KPI tracking  
+- Improves planning using trend and segmentation analysis
 
 **Result:** Built an interactive dashboard for real-time business insights and KPI tracking.
 
 ### Dashboard Preview  
-![Dashboard](dashboard_preview.png)
 
-##  Dataset
+### Main Dashboard
+![Main Dashboard](executive_dashboard_main.png)
+
+### Risk & Profit Analysis
+![Risk Analysis](risk_profit_analysis.png)
+
+###  Dataset
 - Superstore dataset used for analysis
 
 ---
 
-##  Skills Used
+###  Skills Used
 - Python (Pandas, Matplotlib)
 - SQL
 - Data Analysis
 - Machine Learning
 - Power BI
 - Data Visualization
+- Business Insights & Storytelling
 
 ---
 
-##  Author
-- Mohammed Shadid
+###  Author
+- **Mohammed Shadid**
